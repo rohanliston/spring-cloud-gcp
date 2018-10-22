@@ -7,7 +7,7 @@
 		<groupId>org.springframework.cloud</groupId>
 		<artifactId>spring-cloud-build</artifactId>
 		<version>2.1.0.BUILD-SNAPSHOT</version>
-		<relativePath/><!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 
 	<artifactId>spring-cloud-gcp</artifactId>
